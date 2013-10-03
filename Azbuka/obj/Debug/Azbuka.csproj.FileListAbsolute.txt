@@ -1,0 +1,13 @@
+D:\Anuta\Programming\Azbuka\Azbuka\bin\Debug\Azbuka.exe
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\ResolveAssemblyReference.cache
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.Game1Form.resources
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.Game2Form.resources
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.Game3Form.resources
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.Game4Form.resources
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.Game5Form.resources
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.Properties.Resources.resources
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.SelectForm.resources
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.csproj.GenerateResource.Cache
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.exe
+D:\Anuta\Programming\Azbuka\Azbuka\obj\Debug\Azbuka.pdb
+D:\Anuta\Programming\Azbuka\Azbuka\bin\Debug\Azbuka.pdb
