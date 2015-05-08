@@ -1,0 +1,3 @@
+Several games with letters, words and pictures to teach reading to kids. There are several difficulty levels starting with simple tasks like identifying the first letter of a word to more challenging ones, like reading 8-letter words and matching them to pictures.
+Currently includes a library of a few hundred Russian words with corresponding pictures.
+Reward/penalty mechanism in the initial implementation definitely needs improvement to discourage kids from skipping tasks or guessing.
